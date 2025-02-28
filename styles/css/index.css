@@ -2118,8 +2118,8 @@ input[type="button"].btn-block {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('//cdn.staticfile.org/twitter-bootstrap/3.0.3/fonts/glyphicons-halflings-regular.eot');
-  src: url('//cdn.staticfile.org/twitter-bootstrap/3.0.3/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('//cdn.staticfile.org/twitter-bootstrap/3.0.3/fonts/glyphicons-halflings-regular.woff') format('woff'), url('//cdn.staticfile.org/twitter-bootstrap/3.0.3/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('//cdn.staticfile.org/twitter-bootstrap/3.0.3/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('./glyphicons-halflings-regular.eot');
+  src: url('./glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('./glyphicons-halflings-regular.woff') format('woff'), url('./glyphicons-halflings-regular.ttf') format('truetype'), url('./glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
